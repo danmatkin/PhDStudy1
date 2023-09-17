@@ -1,0 +1,2 @@
+"","Variable","t","df","p.value","Significance","LowerCI","UpperCI","MeanDifference","CohensD","DMag.","DLwrCI","DUprCI"
+"t","Experimental - Control",5.81592719617532,38,1.01832003639938e-06,"***",0.107664790966446,0.222634631733554,0.16514971135,-1.83915766456309,"large",-2.60276295754071,-1.07555237158547
